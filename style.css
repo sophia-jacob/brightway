@@ -1,0 +1,23 @@
+body{
+    background-color: #58b093;
+}
+
+.navbar{
+    background-color: #198562;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    /* color: #b9e597; */
+}
+
+.subject{
+    color: #0d4d3b;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.subject:hover{
+    color: 	#58b093;
+}
